@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-18T06:42:21+08:00",
+  "updatedAt": "2026-11-20T06:29:02+08:00",
   "startYear": 2003,
   "endYear": 2026,
-  "totalCount": 3529,
+  "totalCount": 3530,
   "years": [
     {
       "year": 2003,
@@ -121,8 +121,8 @@
     },
     {
       "year": 2026,
-      "count": 132,
-      "latestIssue": "2026132"
+      "count": 133,
+      "latestIssue": "2026133"
     }
   ]
 }
